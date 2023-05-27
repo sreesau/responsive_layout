@@ -1,0 +1,23 @@
+@media only screen and(max-width: 600px){
+             .row{
+                padding:10%;
+             }
+}
+.row {
+     margin: 0px;
+     height: 100vh; 
+     font-size: 20px;
+     text-align: center;
+     }
+.nav {
+    background-color: #b0e0e6;
+    padding: 5%;  
+}
+.content {
+    background-color: #ffa500;
+    padding: 5%;
+}
+.widget{
+    background-color: #ff0000;
+    padding: 5%;
+}
